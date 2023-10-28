@@ -1,0 +1,11 @@
+{
+	"name": "Zuppa Toscana",
+	"link": "https://zardyplants.com/recipes/vegan-zuppa-toscana/",
+	"siteName": "ZardyPlants",
+	"mealTypes": ["dinner"],
+	"foodTypes": ["soup"],
+	"ingredients": ["onion", "garlic", "potato", "kale", "sausage"],
+	"allergens": [],
+	"added": "2023-10-27",
+	"notes": "My wife's favorite soup.\n\nWe usually make this with Gardein Italian sausage, which has gluten, but you could use a GF brand such as Beyond."
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Pie Crust",
+	"link": "https://www.noracooks.com/vegan-pie-crust/",
+	"siteName": "Nora Cooks",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good", "pie"],
+	"ingredients": ["flour", "butter"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": "I use all butter instead of half shortening, and have gotten many compliments using this crust. I've also used it for pot pies with great success."
+}

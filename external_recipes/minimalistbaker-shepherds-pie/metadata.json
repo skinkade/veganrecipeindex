@@ -1,0 +1,11 @@
+{
+	"name": "Shepherd's Pie",
+	"link": "https://minimalistbaker.com/1-hour-vegan-shepherds-pie/",
+	"siteName": "Minimalist Baker",
+	"mealTypes": ["dinner"],
+	"foodTypes": ["pie"],
+	"ingredients": ["potato", "butter", "onion", "garlic", "lentils", "mixed vegetables"],
+	"allergens": [],
+	"added": "2023-10-28",
+	"notes": null
+}

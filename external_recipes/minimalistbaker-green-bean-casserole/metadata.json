@@ -1,0 +1,11 @@
+{
+	"name": "Green Bean Casserole",
+	"link": "https://minimalistbaker.com/vegan-green-bean-casserole/",
+	"siteName": "Minimalist Baker",
+	"mealTypes": ["dinner", "side"],
+	"foodTypes": ["casserole"],
+	"ingredients": ["milk", "flour", "shallot", "garlic", "green bean", "mushroom"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": null
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Vanilla Cake",
+	"link": "https://lovingitvegan.com/vegan-vanilla-cake/",
+	"siteName": "lovingitvegan",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good", "cake"],
+	"ingredients": ["flour", "milk", "oil"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": "Reliable and versatile batter."
+}

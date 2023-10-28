@@ -1,0 +1,11 @@
+{
+	"name": "Apple Crisp",
+	"link": "https://lovingitvegan.com/vegan-apple-crisp/",
+	"siteName": "lovingitvegan",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good"],
+	"ingredients": ["flour", "butter", "oats", "apple"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": null
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Avgolemono Soup (Greek Lemon Orzo Soup)",
+	"link": "https://vegancocotte.com/vegan-avgolemono-soup/",
+	"siteName": "Vegan Cocotte",
+	"mealTypes": ["lunch", "dinner"],
+	"foodTypes": ["soup"],
+	"ingredients": [
+		"chickpeas",
+		"lemon",
+		"tahini",
+		"carrot",
+		"celery",
+		"onion",
+		"garlic",
+		"pasta",
+		"spinach"
+	],
+	"allergens": ["gluten", "sesame"],
+	"added": "2023-10-28",
+	"notes": null
+}

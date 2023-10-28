@@ -1,0 +1,11 @@
+{
+	"name": "Lavender Shortbread Cookies",
+	"link": "https://ohmyveggies.com/lavender-shortbread-cookies/",
+	"siteName": "Oh My Veggies",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good", "cookie"],
+	"ingredients": ["lavender", "butter", "flour"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": null
+}

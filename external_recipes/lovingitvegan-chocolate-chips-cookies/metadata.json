@@ -1,0 +1,11 @@
+{
+	"name": "Chocolate Chip Cookies",
+	"link": "https://lovingitvegan.com/soft-chewy-vegan-chocolate-chip-cookies/",
+	"siteName": "lovingitvegan",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good", "cookie"],
+	"ingredients": ["flour", "butter", "chocolate"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": "Chill before baking to help keep shape / prevent flattening too much."
+}

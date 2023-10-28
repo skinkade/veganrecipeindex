@@ -1,0 +1,11 @@
+{
+	"name": "Walnut and Lentil Bolognese",
+	"link": "https://themodernproper.com/walnut-and-lentil-bolognese",
+	"siteName": "The Modern Proper",
+	"mealTypes": ["dinner"],
+	"foodTypes": ["pasta"],
+	"ingredients": ["carrot", "celery", "onion", "walnut", "lentils"],
+	"allergens": ["gluten", "nuts"],
+	"added": "2023-10-28",
+	"notes": null
+}

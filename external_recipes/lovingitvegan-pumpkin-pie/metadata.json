@@ -1,0 +1,11 @@
+{
+	"name": "Pumpkin Pie",
+	"link": "https://lovingitvegan.com/vegan-pumpkin-pie/",
+	"siteName": "lovingitvegan",
+	"mealTypes": ["dessert"],
+	"foodTypes": ["baked good", "pie"],
+	"ingredients": ["flour", "pumpkin", "maple syrup", "corn starch"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": "I use Nora's crust with all butter instead, but this filling has been my go-to for some time."
+}

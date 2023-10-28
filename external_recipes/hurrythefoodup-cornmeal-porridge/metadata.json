@@ -1,0 +1,11 @@
+{
+	"name": "Cornmeal Porridge",
+	"link": "https://hurrythefoodup.com/cornmeal-porridge/",
+	"siteName": "HurryTheFoodUp",
+	"mealTypes": ["breakfast"],
+	"foodTypes": ["cereal"],
+	"ingredients": ["cornmeal", "milk", "berries"],
+	"allergens": [],
+	"added": "2023-10-28",
+	"notes": null
+}

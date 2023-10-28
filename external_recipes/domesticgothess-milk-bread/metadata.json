@@ -1,0 +1,11 @@
+{
+	"name": "Hokkaido Milk Bread",
+	"link": "https://domesticgothess.com/blog/2019/07/09/vegan-hokkaido-milk-bread/",
+	"siteName": "Domestic Gothess",
+	"mealTypes": ["breakfast", "dessert"],
+	"foodTypes": ["bread"],
+	"ingredients": ["flour", "milk", "butter"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": null
+}

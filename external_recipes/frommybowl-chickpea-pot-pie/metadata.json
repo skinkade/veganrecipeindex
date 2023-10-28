@@ -1,0 +1,11 @@
+{
+	"name": "Chickpea Pot Pie",
+	"link": "https://frommybowl.com/vegan-chickpea-pot-pie/",
+	"siteName": "From My Bowl",
+	"mealTypes": ["dinner"],
+	"foodTypes": ["pie"],
+	"ingredients": ["chickpeas", "carrot", "celery", "onion", "garlic", "flour", "butter", "milk"],
+	"allergens": ["gluten"],
+	"added": "2023-10-28",
+	"notes": "I use Nora's crust."
+}
