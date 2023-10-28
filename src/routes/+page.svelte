@@ -107,7 +107,9 @@
 		<h1 class="text-4xl text-bold">Vegan Recipe Index</h1>
 	</div>
 	<div class="flex justify-center m-4">
-		<h2 class="text-xl">My favorite vegan and easily-veganized recipes from around the web</h2>
+		<h2 class="text-xl w-96 md:w-auto text-center">
+			My favorite vegan and easily-veganized recipes from around the web
+		</h2>
 	</div>
 </header>
 
