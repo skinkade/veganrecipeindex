@@ -1,0 +1,20 @@
+{
+	"name": "White Chickpea Chili",
+	"link": "https://midwestfoodieblog.com/vegan-white-chickpea-chili/",
+	"siteName": "Midwest Foodie",
+	"mealTypes": ["lunch", "dinner"],
+	"foodTypes": ["chili"],
+	"ingredients": [
+		"onion",
+		"garlic",
+		"bell pepper",
+		"jalapeno",
+		"chickpeas",
+		"beans",
+		"salsa",
+		"coconut milk"
+	],
+	"allergens": [],
+	"added": "2023-10-29",
+	"notes": "When serving, I recommend mixing in sour cream to add richness, adding lime for acidity, and then breaking tortilla chips into it."
+}
