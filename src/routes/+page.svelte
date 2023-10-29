@@ -29,6 +29,7 @@
 	import RecipeCard from '../components/recipe_card.svelte';
 	import Select from 'svelte-select';
 	import { isSuperset, intersection } from '../lib/set';
+	import GithubCorner from '../components/github_corner.svelte';
 
 	function filterResults() {
 		let filteredRecipes = data.allRecipes;
@@ -101,6 +102,8 @@
 <svelte:head>
 	<title>Vegan Recipe Index</title>
 </svelte:head>
+
+<GithubCorner />
 
 <header>
 	<div class="flex justify-center m-4">
