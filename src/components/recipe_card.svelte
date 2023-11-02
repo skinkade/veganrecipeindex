@@ -4,7 +4,7 @@
 
 <div class="card bg-base-100 shadow-xl justify-self-center w-10/12 md:w-80 lg:w-64 xl:w-96 my-4">
 	<a href={recipe.type === 'external' ? recipe.link : `/recipe/${recipe.id}`} target="_blank">
-		<div class="grid h-[256px] content-center mt-4">
+		<div class="grid h-[256px] mt-4">
 			<picture class="justify-self-center">
 				<source type="image/avif" srcset={`/recipe-image/${recipe.id}-preview.avif`} />
 				<img
