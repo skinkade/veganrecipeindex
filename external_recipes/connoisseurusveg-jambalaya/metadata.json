@@ -1,0 +1,19 @@
+{
+	"name": "Jambalaya",
+	"link": "https://www.connoisseurusveg.com/vegan-slow-cooker-jambalaya/",
+	"siteName": "Connoisseurus Veg",
+	"mealTypes": ["lunch", "dinner"],
+	"foodTypes": ["rice dish"],
+	"ingredients": [
+		"onion",
+		"garlic",
+		"bell pepper",
+        "celery",
+		"beans",
+        "sausage",
+        "rice"
+	],
+	"allergens": [],
+	"added": "2023-11-02",
+	"notes": null
+}
