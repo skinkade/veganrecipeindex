@@ -36,7 +36,6 @@
 		const form = new FormData(document.getElementById('filter-form'));
 
 		const sortOrder = JSON.parse(form.get('recipe-sort')).value;
-		console.log({ sortOrder });
 
 		let mealTypes = form.get('meal-types')
 			? new Set(JSON.parse(form.get('meal-types')).map((entry) => entry.value))
@@ -107,8 +106,6 @@
 	/>
 </svelte:head>
 
-<GithubCorner />
-
 <header>
 	<div class="flex justify-center m-4">
 		<h1 class="text-4xl text-bold">Vegan Recipe Index</h1>
@@ -118,6 +115,7 @@
 			My favorite vegan and easily-veganized recipes from around the web
 		</h2>
 	</div>
+	<GithubCorner />
 </header>
 
 <main>
@@ -134,16 +132,18 @@
 								clearable={false}
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="recipe-sort"
 								name="recipe-sort"
 							/>
 						</div>
 						<div class="m-4">
-							<label for="included-ingredients">Meal Types</label>
+							<label for="meal-types">Meal Types</label>
 							<Select
 								items={mealTypeOptions}
 								multiple
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="meal-types"
 								name="meal-types"
 							/>
 						</div>
@@ -154,6 +154,7 @@
 								multiple
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="food-types"
 								name="food-types"
 							/>
 						</div>
@@ -164,6 +165,7 @@
 								multiple
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="included-ingredients"
 								name="included-ingredients"
 							/>
 						</div>
@@ -174,6 +176,7 @@
 								multiple
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="not-included-ingredients"
 								name="not-included-ingredients"
 							/>
 						</div>
@@ -184,6 +187,7 @@
 								multiple
 								on:change={debouncedFilterResults}
 								on:clear={debouncedFilterResults}
+								id="allergens"
 								name="allergens"
 							/>
 						</div>
