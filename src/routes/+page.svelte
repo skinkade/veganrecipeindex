@@ -102,7 +102,7 @@
 	<title>Vegan Recipe Index</title>
 	<meta
 		name="description"
-		content="An index of vegan recipes searchable by type, ingredients, and allergens"
+		content="An open source index of vegan recipes searchable by type, ingredients, and allergens"
 	/>
 </svelte:head>
 
