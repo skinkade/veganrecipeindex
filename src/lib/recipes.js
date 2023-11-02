@@ -36,6 +36,12 @@ function readRecipes() {
 				`./static/recipe-image/${id}-preview.jpg`
 			);
 		}
+		if (!fs.existsSync(`./static/recipe-image/${id}-preview.avif`)) {
+			fs.symlinkSync(
+				`../../external_recipes/${id}/preview.avif`,
+				`./static/recipe-image/${id}-preview.avif`
+			);
+		}
 	});
 
 	return external;
